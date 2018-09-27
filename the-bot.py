@@ -3,10 +3,11 @@ import time
 import os
 
 
-consumer_key = 'IiTscAHmJK1oKHf3zfqKXGOyy'
-consumer_secret = 'YqMejMv1oNO1HWGRo1w4jxp9TmnxYQfRlMBBFSAIhERtINWXG6'
-access_token = '1045201757779849216-k9MYlZnkC8wFzagjomSp2lvfiYKdVs'
-access_secret = 'sKe6CRF8vE2m3iu1Lz6fUko1PyymgfRkiZUyXUfq9Bpb3'
+# Genrate Your key at https://apps.twitter.com
+consumer_key = #Your Consumer Key
+consumer_secret = #Your Secret Key
+access_token = #Your Token
+access_secret = #Access Token
 
 
 
